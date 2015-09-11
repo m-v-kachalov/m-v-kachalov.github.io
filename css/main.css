@@ -1,6 +1,7 @@
 
 nav ul, footer ul {
     margin-left: 100px;
+    text-align: center;
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
     padding: 0px;
     list-style: none;
